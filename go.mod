@@ -3,7 +3,7 @@ module github.com/axiaoxin-com/ratelimiter
 go 1.14
 
 require (
-	github.com/axiaoxin-com/goutils v0.0.0-20200909093258-aaf2fefcde7a
+	github.com/axiaoxin-com/goutils v1.1.2
 	github.com/axiaoxin-com/logging v1.2.3
 	github.com/gin-gonic/gin v1.9.0
 	github.com/go-redis/redis/v8 v8.0.0-beta.10
